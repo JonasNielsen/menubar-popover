@@ -1,0 +1,12 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    rake (10.1.0)
+    teacup (2.1.13)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  rake
+  teacup (~> 2.1.9)
